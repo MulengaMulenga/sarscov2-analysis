@@ -1,4 +1,4 @@
-name:sarscov
+name: sarscov
 channels:
   - bioconda
 dependencies:
