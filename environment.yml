@@ -1,6 +1,5 @@
-name: sarscov
+name:sarscov
 channels:
-  - conda-forge
   - bioconda
 dependencies:
   - python=3.7
@@ -16,7 +15,6 @@ dependencies:
   - r=3.6.0
   - r-irkernel
   - r-ggplot2
-  - r-cowplot
   - r-dplyr
   - r-reshape2
   - r-tidyr
