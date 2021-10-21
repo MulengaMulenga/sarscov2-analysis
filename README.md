@@ -1,5 +1,5 @@
 # sarscov2-analysis
-Contains a collection ofbioinformatics analysis for sarscovs
+Contains a collection of bioinformatics analysis for sarscov2 and plasmodium falciparum sequencing set up
 ## Getting started
 
 In order to get started you will have to install `git` and `conda`. 
@@ -15,7 +15,7 @@ cd sarscov2-analysis
 conda env create
 ```
 
-Now you will have download all the code and installed all the dependencies required for the workshops.
+Now you will have download all the code and installed all the dependencies required for analysis
 
 ## Running `Jupyter Notebook`
 
