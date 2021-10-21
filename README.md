@@ -1,4 +1,4 @@
-# sarscov2-analysis
+# sarscov2-analysis and plasmodium falciparum exploratory data analysis for the assay set up
 Contains a collection of bioinformatics analysis for sarscov2 and plasmodium falciparum sequencing set up
 ## Getting started
 
